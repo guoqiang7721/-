@@ -1,4 +1,7 @@
-#宋Song优质资料汇总##
+## Welcome to MarkdownPad 2 ##
+
+**MarkdownPad** is a full-featured Markdown editor for Windows.
+## 宋Song优质资料汇总 ##
 
 #资料合集##
 
