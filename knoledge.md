@@ -1,6 +1,3 @@
-## Welcome to MarkdownPad 2 ##
-
-**MarkdownPad** is a full-featured Markdown editor for Windows.
 # 宋Song优质资料汇总 #
 
 ## 资料合集 ##
@@ -33,6 +30,9 @@
 - [**node.js(狼叔：如何正确的学习Node.js)**](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)
 
 - [**charles的使用**](https://www.jianshu.com/p/fb2bdde5b498)
+
+
+## 浏览器 ##
 
 - [**浏览器内核介绍**](https://www.cnblogs.com/zichi/p/5116764.html)
 
@@ -88,6 +88,8 @@
 
 - [**css学习篇(Animate.css)**](http://www.jq22.com/yanshi819)
 
+- [**css动画**](https://www.html5tricks.com/tag/css3%E5%8A%A8%E7%94%BB/)
+
 ### Vue ###
 
 ----------
@@ -115,7 +117,29 @@
 
 - [**Vue(项目)better-scroll**](https://github.com/ustbhuangyi/better-scroll/blob/master/README_zh-CN.md)
 
-- [**css文字动画**](https://github.com/qgh810/animate-text)
+### 微信公众号 ###
+
+----------
+
+
+- [**Vue微信公众号开发踩坑记录**](https://segmentfault.com/a/1190000010753247)
+
+- [**开发微信公众号入门系列**](https://www.jianshu.com/p/5ae97f0bd31e?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
+
+- [**网站应用微信登录开发指南**](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=&lang=zh_CN)
+
+### 其他 ###
+
+----------
+
+
+- [**图片压缩(智图图片优化平台)**](https://zhitu.isux.us/)
+
+- [**图片压缩(tinypng)**](https://tinypng.com/)
+
+- [**I7素材(Canvas)**](https://tinypng.com/)
+
+
 ## Welcome to MarkdownPad 2 ##
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
