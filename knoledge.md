@@ -44,7 +44,9 @@
 
 #All##
 
-##Js##
+###Js###
+
+----------
 
 - [**掘金作者Lambda Academy(分享函数式编程和前端开发)**](https://lambda.academy/)
 
@@ -62,13 +64,19 @@
 
 - [**异步编程(js中的同步和异步的个人理解)**](https://blog.csdn.net/qq_22855325/article/details/72958345)
    
-##ES6##
+###ES6###
+
+----------
+
 
 - [**ES6 Promise 用法讲解**](https://www.cnblogs.com/whybxy/p/7645578.html)
 
 - [**ES6入门**](http://es6.ruanyifeng.com/#docs/promise)
 
-##Css##
+###Css###
+
+----------
+
 
 - [**Flex 布局教程：语法篇**](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
@@ -80,7 +88,10 @@
 
 - [**css学习篇(Animate.css)**](http://www.jq22.com/yanshi819)
 
-##Vue##
+###Vue###
+
+----------
+
 
 - [**Vue router**](https://router.vuejs.org/zh/guide/essentials/nested-routes.html)
 
