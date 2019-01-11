@@ -1,16 +1,16 @@
 ## Welcome to MarkdownPad 2 ##
 
 **MarkdownPad** is a full-featured Markdown editor for Windows.
-## 宋Song优质资料汇总 ##
+# 宋Song优质资料汇总 #
 
-#资料合集##
+## 资料合集##
 
 - [**五星推荐的系列文章清单**](https://juejin.im/post/5c1f01fef265da61587723f4)
 
 - [**Awesomes**](https://www.awesomes.cn/)
 
 
-#web前端学习##
+## web前端学习 ##
 
 - [**web超强前端学习资源分享**](https://juejin.im/post/5a0c1956f265da430a501f51)
 
@@ -38,13 +38,13 @@
 
 - [**各主流浏览器介绍**](http://www.cnblogs.com/vajoy/p/3735553.html)
 
-#前端面试##
+## 前端面试##
 
 - [**26个精选的JavaScript面试问题**](https://juejin.im/post/5bd95d22e51d45685f442f73)
 
 #All##
 
-#Js##
+##Js##
 
 - [**掘金作者Lambda Academy(分享函数式编程和前端开发)**](https://lambda.academy/)
 
@@ -62,13 +62,13 @@
 
 - [**异步编程(js中的同步和异步的个人理解)**](https://blog.csdn.net/qq_22855325/article/details/72958345)
    
-#ES6##
+##ES6##
 
 - [**ES6 Promise 用法讲解**](https://www.cnblogs.com/whybxy/p/7645578.html)
 
 - [**ES6入门**](http://es6.ruanyifeng.com/#docs/promise)
 
-#Css##
+##Css##
 
 - [**Flex 布局教程：语法篇**](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
@@ -80,7 +80,7 @@
 
 - [**css学习篇(Animate.css)**](http://www.jq22.com/yanshi819)
 
-#Vue##
+##Vue##
 
 - [**Vue router**](https://router.vuejs.org/zh/guide/essentials/nested-routes.html)
 
