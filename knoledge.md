@@ -46,8 +46,6 @@
 
 ### Js ###
 
-----------
-
 - [**掘金作者Lambda Academy(分享函数式编程和前端开发)**](https://lambda.academy/)
 
 - [**JavaScript 指南**](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide)
@@ -66,17 +64,11 @@
    
 ### ES6 ###
 
-----------
-
-
 - [**ES6 Promise 用法讲解**](https://www.cnblogs.com/whybxy/p/7645578.html)
 
 - [**ES6入门**](http://es6.ruanyifeng.com/#docs/promise)
 
 ### Css ###
-
-----------
-
 
 - [**Flex 布局教程：语法篇**](http://www.ruanyifeng.com/blog/2015/07/flex-grammar.html?utm_source=tuicool)
 
@@ -91,9 +83,6 @@
 - [**css动画**](https://www.html5tricks.com/tag/css3%E5%8A%A8%E7%94%BB/)
 
 ### Vue ###
-
-----------
-
 
 - [**Vue router**](https://router.vuejs.org/zh/guide/essentials/nested-routes.html)
 
@@ -119,9 +108,6 @@
 
 ### 微信公众号 ###
 
-----------
-
-
 - [**Vue微信公众号开发踩坑记录**](https://segmentfault.com/a/1190000010753247)
 
 - [**开发微信公众号入门系列**](https://www.jianshu.com/p/5ae97f0bd31e?utm_campaign=haruki&utm_content=note&utm_medium=reader_share&utm_source=weixin)
@@ -129,9 +115,6 @@
 - [**网站应用微信登录开发指南**](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419316505&token=&lang=zh_CN)
 
 ### 其他 ###
-
-----------
-
 
 - [**图片压缩(智图图片优化平台)**](https://zhitu.isux.us/)
 
