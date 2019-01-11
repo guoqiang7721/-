@@ -3,7 +3,7 @@
 **MarkdownPad** is a full-featured Markdown editor for Windows.
 # 宋Song优质资料汇总 #
 
-## 资料合集##
+## 资料合集 ##
 
 - [**五星推荐的系列文章清单**](https://juejin.im/post/5c1f01fef265da61587723f4)
 
@@ -38,13 +38,13 @@
 
 - [**各主流浏览器介绍**](http://www.cnblogs.com/vajoy/p/3735553.html)
 
-## 前端面试##
+## 前端面试 ##
 
 - [**26个精选的JavaScript面试问题**](https://juejin.im/post/5bd95d22e51d45685f442f73)
 
-#All##
+## All ##
 
-###Js###
+### Js ###
 
 ----------
 
@@ -64,7 +64,7 @@
 
 - [**异步编程(js中的同步和异步的个人理解)**](https://blog.csdn.net/qq_22855325/article/details/72958345)
    
-###ES6###
+### ES6 ###
 
 ----------
 
@@ -73,7 +73,7 @@
 
 - [**ES6入门**](http://es6.ruanyifeng.com/#docs/promise)
 
-###Css###
+### Css ###
 
 ----------
 
@@ -88,7 +88,7 @@
 
 - [**css学习篇(Animate.css)**](http://www.jq22.com/yanshi819)
 
-###Vue###
+### Vue ###
 
 ----------
 
