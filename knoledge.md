@@ -38,6 +38,8 @@
 
 - [**各主流浏览器介绍**](http://www.cnblogs.com/vajoy/p/3735553.html)
 
+- [**浏览器同源政策及其规避方法**](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
+
 ## 前端面试 ##
 
 - [**26个精选的JavaScript面试问题**](https://juejin.im/post/5bd95d22e51d45685f442f73)
