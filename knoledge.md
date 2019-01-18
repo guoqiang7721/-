@@ -40,6 +40,8 @@
 
 - [**浏览器同源政策及其规避方法**](http://www.ruanyifeng.com/blog/2016/04/same-origin-policy.html)
 
+- [**Chrome 开发者工具**](https://developers.google.cn/web/tools/chrome-devtools/)
+
 ## 前端面试 ##
 
 - [**26个精选的JavaScript面试问题**](https://juejin.im/post/5bd95d22e51d45685f442f73)
