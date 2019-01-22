@@ -11,6 +11,8 @@
 
 - [**web超强前端学习资源分享**](https://juejin.im/post/5a0c1956f265da430a501f51)
 
+- [**AI JavaScript 风格指南**](https://lq782655835.github.io/blogs/team-standard/clean-code-javascript.html)
+
 - [**前端网老姚浅谈：怎么学JavaScript？**](https://zhuanlan.zhihu.com/p/23265155)
 
 - [**git - 简易指南**](http://www.bootcss.com/p/git-guide/)
