@@ -88,6 +88,8 @@
 
 - [**css动画**](https://www.html5tricks.com/tag/css3%E5%8A%A8%E7%94%BB/)
 
+- [**cssLoading（加载）动画效果**](https://www.cnblogs.com/lhb25/p/loading-spinners-animated-with-css3.html)
+
 ### Vue ###
 
 - [**Vue router**](https://router.vuejs.org/zh/guide/essentials/nested-routes.html)
