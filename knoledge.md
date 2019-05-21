@@ -134,3 +134,7 @@
 
 - [**Vue调试神器vue-devtools安装**](https://segmentfault.com/a/1190000009682735#articleHeader8)
 
+### 项目bug积累 ###
+
+- [**iOS11.3 fastclick.js相关bug**](https://www.jianshu.com/p/5b578e656966)
+
