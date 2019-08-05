@@ -134,6 +134,8 @@
 
 - [**Vue调试神器vue-devtools安装**](https://segmentfault.com/a/1190000009682735#articleHeader8)
 
+- [**Vscode调试--stylus**](https://www.jianshu.com/p/23a5d6194a4b)
+
 ### 项目bug积累 ###
 
 - [**iOS11.3 fastclick.js相关bug**](https://www.jianshu.com/p/5b578e656966)
